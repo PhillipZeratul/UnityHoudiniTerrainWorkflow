@@ -1,12 +1,12 @@
-/*
+/UnityHoudiniTerrain/*
 !.gitignore
 
 
 # Unity3D related
-!/Assets
-/Assets/AssetStoreTools/
-!/Packages
-!/ProjectSettings
+!/UnityHoudiniTerrain/Assets
+/UnityHoudiniTerrain/Assets/AssetStoreTools/
+!/UnityHoudiniTerrain/Packages
+!/UnityHoudiniTerrain/ProjectSettings
 *.unitypackage
 
 
