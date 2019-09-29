@@ -9,6 +9,9 @@
 !/UnityHoudiniTerrain/ProjectSettings
 *.unitypackage
 
+# Houdini related
+!/HoudiniScene
+/HoudiniScene/backup
 
 # Mac-OSX related
 .DS_Store
